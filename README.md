@@ -10,5 +10,5 @@ Notes:
 - Package hamming compares two snippets of DNA and returns the number of differences.
   - Will add concurrency operations for longer snippets of DNA.
 - Package triangle determines the type of triangle symmetry from the lengths of the sides.
-
+- Package space (space_age.go) determines the number of orbital periods for any Sol. planet compared to Earth.
 

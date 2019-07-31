@@ -1,14 +1,27 @@
-### Scrappy-Scrapbook
+<!DOCTYPE html>
+<html>
+<head>
+<title>ReadMe</head>
+</head>
+<body>
+<article>
+<h1>Scrappy-Scrapbook</h1>
+<p>
 Includes:
-- Exercism.io go-track solutions
-  - Emphasis on learning go syntax above simplicity of an algorithm
-  - Comments explain in detail the structure of my approach
-    - golint implemented
-
+<ul>
+<li>Exercism.io go-track solutions</li>
+	<ul><li>Emphasis on learning GO syntax</li>
+	</ul>
+</ul></p>
+<p>
 Notes:
-- Package proverbs takes an array input with strings and returns an array with sayings.
-- Package hamming compares two snippets of DNA and returns the number of differences.
-  - Will add concurrency operations for longer snippets of DNA.
-- Package triangle determines the type of triangle symmetry from the lengths of the sides.
-- Package space (space_age.go) determines the number of orbital periods for any Sol. planet compared to Earth.
+<ul>
+<li>Package proverbs takes an array input with strings and returns an array with sayings.</li>
+<li>Package hamming compares two snippets of DNA and returns a number of differences.</li>
+<li>Package triangle  determines the type of triangle symmetry from the lengths of the sides.</li>
+<li>Package space determines the number of orbital periods for any solar system planet compared to Earth. </li>
+</ul>
+</p>
+</body>
+</html>
 

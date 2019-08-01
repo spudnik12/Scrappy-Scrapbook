@@ -1,0 +1,15 @@
+:root {}
+
+body {
+	font-family: Ubuntu, monoscript;
+	font-size: 16px;
+	font-weight: lighter;
+}
+
+h1 {
+	margin: 1em;
+	border: solid;
+	padding: 0.25em 1em 0.25em 1em;
+	max-width: 23em;
+	min-width: 75%;
+}

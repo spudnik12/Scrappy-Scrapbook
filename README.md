@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link href="Rhttps://github.com/spudnik12/Scrappy-Scrapbook/tree/master/README" type="text/css" rel="stylesheet">
+<link href="https://github.com/spudnik12/Scrappy-Scrapbook/tree/master/README" type="text/css" rel="stylesheet">
 </head>
 <body>
 <article>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link href="README/README.css" type="text/css" rel="stylesheet">
+<link href="https://github.com/spudnik12/Scrappy-Scrapbook/blob/master/README/README.css" type="text/css" rel="stylesheet">
 </head>
 <body>
 <article>

@@ -1,9 +1,10 @@
 :root {}
 
 body {
-	font-family: Ubuntu, monoscript;
-	font-size: 16px;
-	font-weight: lighter;
+	@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+	font-family: 'Ubuntu', sans-serif, monoscript;
+	font-size: 20px;
+	font-weight: bold;
 }
 
 h1 {

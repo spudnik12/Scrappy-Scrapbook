@@ -7,7 +7,7 @@ body {
 font-family:monoscript;
 font-size: 20px;
 color: red;
-}
+}</style>
 </head>
 <body>
 <article>

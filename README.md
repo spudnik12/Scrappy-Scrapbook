@@ -2,6 +2,12 @@
 <html>
 <head>
 <link href="https://github.com/spudnik12/Scrappy-Scrapbook/blob/master/README/README.css" type="text/css" rel="stylesheet">
+<style>
+body {
+font-family:monoscript;
+font-size: 20px;
+color: red;
+}
 </head>
 <body>
 <article>

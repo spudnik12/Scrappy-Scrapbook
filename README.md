@@ -1,17 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link href="https://github.com/spudnik12/Scrappy-Scrapbook/blob/master/README/README.css" type="text/css" rel="stylesheet">
-<style>
-body {
-font-family:monoscript;
-font-size: 20px;
-color: red;
-}</style>
 </head>
 <body>
 <article>
-<h1>Scrappy-Scrapbook</h1>
+<h1 style="@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap'); font-family: 'Ubuntu', sans-serif; font-weight: lighter; border:solid; background-color: pink;" >Scrappy-Scrapbook</h1>
 <p>Includes:
 <ul>
 <li>Exercism.io go-track solutions</li>

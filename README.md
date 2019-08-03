@@ -17,6 +17,7 @@
 <li>raindrops converts numbers into rain-talk such as "pling", "plang", and "plong".</li>
 <li>difference-of-squares calculates the difference between the sum of numbers squared and sum of squared numbers.</li>
 <li>two_fer returns a string value based on the input</li>
+<li>isogram checks for repeating letters in a word</li>
 </ul>
 </p>
 </article>

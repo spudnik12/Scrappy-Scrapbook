@@ -1,5 +1,5 @@
-//Package diffsquares determines the square of the sum of n positive integers, the sum of the square of each n positive integer,
-//and the difference between both.
+//Package diffsquares determines the square of the sum of n positive integers,
+//the sum of the square of each n positive integer, and the difference between both.
 package diffsquares
 
 //SquareOfSum = (1+2+3+...+n)^2 = n^3 + (n-1)^3 + (n-2)^3 + ... + (n-n)^3.
@@ -21,7 +21,7 @@ func SumOfSquares(n int) int {
 	return n*n + SumOfSquares(n-1)
 }
 
-//Difference = SquareOfSum - SumOfSquares.
+//Difference = SquareOfSum - SumOfSquares = n^2(n-1)+(n-1)^2(n-2)+...+1^2(n-n).
 func Difference(n int) int {
 
 	if n == 1 {

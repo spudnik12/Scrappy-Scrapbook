@@ -19,7 +19,7 @@
 <li>two_fer returns a string value based on the input</li>
 <li>isogram checks for repeating letters in a word</li>
 <li>difference_of_squares determines the sum<sup>2</sup>, sum of positive integers<sup>2</sup>, and the difference
-	between the both</li><</ul>
+	between the both</li></ul>
 </ul>
 </p>
 </article>
